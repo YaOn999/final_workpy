@@ -1,9 +1,9 @@
-from app import app
+from console import console
 
 
 if __name__ == "__main__":
-    app()
+    console()
     print("Неверный выбор. Попробуйте еще раз.")
 
 if __name__ == "__main__":
-    app()
+    console()
